@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+    android:background="#111">
+    
+	<TextView
+		android:textColor="#ff1"
+        android:textStyle="bold"
+        android:textSize="25dp"
+		android:text="Choisissez votre article"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/textView1" />
+	<TextView
+        android:text="@string/article1"
+        android:textColor="#fff"
+        android:layout_marginTop="30dp"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+		android:id="@+id/textView2" />
+
+	<Button
+		android:text="Valider"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/buttonValidation1" />
+	<TextView
+		android:text="@string/article2"
+        android:textColor="#fff"
+        android:layout_marginTop="20dp"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+		android:id="@+id/textView3" />
+	<Button
+		android:text="Valider"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+		android:id="@+id/buttonValidation2" />
+	<TextView
+		android:text="@string/article3"
+        android:textColor="#fff"
+        android:layout_marginTop="20dp"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+		android:id="@+id/textView4" />
+	<Button
+		android:text="Valider"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/buttonValidation3" />
+    <TextView
+		android:text="@string/article4"
+
+        android:textColor="#fff"
+        android:layout_marginTop="20dp"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+		android:id="@+id/textView5" />
+    <Button
+		android:text="Valider"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/buttonValidation4" />
+</LinearLayout>

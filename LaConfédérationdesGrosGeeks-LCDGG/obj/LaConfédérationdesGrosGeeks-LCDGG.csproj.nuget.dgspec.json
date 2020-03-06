@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tom/Projects/LaConfédérationdesGrosGeeks-LCDGG/LaConfédérationdesGrosGeeks-LCDGG/LaConfédérationdesGrosGeeks-LCDGG.csproj": {}
+  },
+  "projects": {
+    "/Users/tom/Projects/LaConfédérationdesGrosGeeks-LCDGG/LaConfédérationdesGrosGeeks-LCDGG/LaConfédérationdesGrosGeeks-LCDGG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tom/Projects/LaConfédérationdesGrosGeeks-LCDGG/LaConfédérationdesGrosGeeks-LCDGG/LaConfédérationdesGrosGeeks-LCDGG.csproj",
+        "projectName": "LaConfédérationdesGrosGeeks_LCDGG",
+        "projectPath": "/Users/tom/Projects/LaConfédérationdesGrosGeeks-LCDGG/LaConfédérationdesGrosGeeks-LCDGG/LaConfédérationdesGrosGeeks-LCDGG.csproj",
+        "packagesPath": "/Users/tom/.nuget/packages/",
+        "outputPath": "/Users/tom/Projects/LaConfédérationdesGrosGeeks-LCDGG/LaConfédérationdesGrosGeeks-LCDGG/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/tom/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Lsjwzh.MaterialLoadingProgressBar.Xamarin.Android": {
+              "target": "Package",
+              "version": "[0.5.6, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
