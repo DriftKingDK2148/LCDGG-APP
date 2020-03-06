@@ -12,7 +12,6 @@ Si vous ne le faites pas, vous ne recevrez pas les nouveaux articles, ni les cor
 
 Comme vous pourrez le constater, vous aurez la possibilité de joindre le développeur afin de signaler tout bug, ou même toute suggestion d'amélioration !
 
-C'est une application sortie par un développeur débutant, merci de bien vouloir en tenir compte lorsque vous l'utiliserez ^^.
 
 
 ======================================================================================
