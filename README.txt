@@ -12,8 +12,6 @@ Si vous ne le faites pas, vous ne recevrez pas les nouveaux articles, ni les cor
 
 Comme vous pourrez le constater, vous aurez la possibilité de joindre le développeur afin de signaler tout bug, ou même toute suggestion d'amélioration !
 
-
-
 ======================================================================================
 
 ======================================================================================
